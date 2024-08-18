@@ -1,6 +1,6 @@
-# EDA-On-IMDB-Dataset
+# EDA-On-IMDb-Dataset
 ### Project Overview
-This project focuses on analyzing the IMDB dataset to uncover trends, relationships, and patterns within the data. The analysis aims to provide meaningful insights that help better understand the movie industry and the impact of various factors on movie success.
+This project focuses on analyzing the IMDb dataset to uncover trends, relationships, and patterns within the data. The analysis aims to provide meaningful insights that help better understand the movie industry and the impact of various factors on movie success.
 
 ### Methodology
 The project was carried out in the following steps:
